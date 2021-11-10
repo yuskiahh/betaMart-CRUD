@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "crud_betamart", "crud_betamart\crud_betamart.vbproj", "{BDE6ABF6-430F-4899-8CFE-3C72B70A71ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE6ABF6-430F-4899-8CFE-3C72B70A71ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE6ABF6-430F-4899-8CFE-3C72B70A71ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE6ABF6-430F-4899-8CFE-3C72B70A71ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE6ABF6-430F-4899-8CFE-3C72B70A71ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0FC336-0B32-43DB-A674-FA3AB84E309D}
+	EndGlobalSection
+EndGlobal
